@@ -1,6 +1,6 @@
 # Мой проект
 
-![Автор проекта](lisicin.jpg "😋")
+![Автор проекта](https://zaisy.ru/upload/iblock/6c0/6w8eojff04uh5w5udhvrdjjaf3xm84vm.jpg "😋")
 
 ## Информация о разработчике
 
